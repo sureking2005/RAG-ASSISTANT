@@ -1,0 +1,233 @@
+
+
+FULL_NAME: Surendar Ram SK
+LOCATION: Tuticorin, India
+PHONE: 9360051734
+EMAIL: surendarram.off@gmail.com
+
+PROFESSIONAL_ROLE: AI & ML Engineer (Student – B.Tech AIML)
+
+EDUCATION:
+
+Degree: B.Tech in Artificial Intelligence & Machine Learning
+
+Institution: SNS College of Technology, Coimbatore
+
+Duration: 2022 – Present
+
+CGPA: 8.16
+
+HSC: Kanchi Sri Sankara Academy Matric Hr Sec School, Tiruchendur
+
+Year: 2022
+
+Marks: 84%
+
+SSLC: Kanchi Sri Sankara Academy Matric Hr Sec School, Tiruchendur
+
+Year: 2020
+
+Marks: 78.8%
+
+CORE_EXPERTISE:
+
+Machine Learning
+
+Deep Learning
+
+Generative AI
+
+Agentic AI Systems
+
+Retrieval-Augmented Generation (RAG)
+
+Prompt Engineering
+
+Backend Development
+
+REST API Development
+
+Model Deployment
+
+NLP (Natural Language Processing)
+
+Database Management
+
+PROGRAMMING_LANGUAGES:
+
+Python
+
+Java
+
+SQL
+
+FRAMEWORKS_AND_LIBRARIES:
+
+Django
+
+FastAPI
+
+React.js
+
+Scikit-learn
+
+TensorFlow
+
+Keras
+
+PyTorch
+
+Transformers
+
+YOLO
+
+AI_MODEL_INTEGRATION_EXPERIENCE:
+
+OpenAI API
+
+Mistral AI
+
+Gemini
+
+Sonnet
+
+CLOUD_EXPERIENCE:
+
+AWS (Basic)
+
+EC2 fundamentals
+
+DATABASES:
+
+MySQL
+
+MongoDB
+
+TOOLS:
+
+GitHub
+
+Power BI
+
+INTERNSHIP_1:
+TITLE: Agentic AI Intern
+COMPANY: Xyloite Technologies, Coimbatore
+DURATION: December 2025 – January 2026
+
+RESPONSIBILITIES:
+
+Designed and implemented a RAG-based persistent memory system.
+
+Integrated Mistral AI and OpenAI models for autonomous agent workflows.
+
+Built MCP socket-based communication layer for real-time agent orchestration.
+
+Optimized prompt design and memory retrieval pipelines.
+
+Worked on model integration and agentic AI architecture.
+
+KEYWORDS:
+RAG, persistent memory, autonomous agents, socket communication, LLM integration, prompt engineering, agent orchestration
+
+INTERNSHIP_2:
+TITLE: Gen AI Intern
+COMPANY: SNS Innovation Hub, Coimbatore
+DURATION: August 2024 – March 2025
+
+RESPONSIBILITIES:
+
+Handled machine learning model integration using Django-based REST APIs.
+
+Assisted in deployment and testing of ML models.
+
+Integrated AI modules into production-ready backend systems.
+
+Worked on API-driven AI application architecture.
+
+KEYWORDS:
+Django API, RESTful services, ML deployment, backend integration, production AI systems
+
+PROJECT_1:
+NAME: Smart Parking System
+TYPE: Web Application
+DESCRIPTION:
+Developed a web-based platform to help users locate nearby parking spaces efficiently.
+
+TECH_STACK:
+
+Django
+
+Backend API integration
+
+Database management
+
+FUNCTIONALITIES:
+
+Real-time parking data processing
+
+API-driven architecture
+
+Location-based service logic
+
+KEYWORDS:
+smart parking, real-time data, backend API, Django application, location-based system
+
+PROJECT_2:
+NAME: Smart Alumni Connect
+TYPE: AI Recommendation Platform
+DESCRIPTION:
+Developed an intelligent networking portal connecting students with alumni mentors using an AI-based recommendation engine.
+
+FEATURES:
+
+Skill-based mentor matching
+
+Career trajectory-based recommendation
+
+Intelligent matchmaking algorithm
+
+KEYWORDS:
+recommendation engine, AI matching system, mentor platform, skill similarity, career path prediction
+
+PROJECT_3:
+NAME: Stock Price Prediction System
+TYPE: Deep Learning Model
+DESCRIPTION:
+Built a predictive model to forecast Tata Motors’ closing stock prices using historical market data.
+
+MODEL_DETAILS:
+
+LSTM-based neural network
+
+Time-series forecasting
+
+Feature engineering
+
+Data preprocessing
+
+Model evaluation
+
+KEYWORDS:
+stock prediction, LSTM, deep learning, time-series forecasting, financial data modeling
+
+CERTIFICATIONS:
+
+Azure AI Fundamentals (2025)
+
+AWS Introduction to EC2 (2025)
+
+AWS Generative AI in Action (2025)
+
+Deloitte (Forage) Data Analyst Program (2025)
+
+DBMS – Infosys Springboard (2024)
+
+Python Development – Skillvertex (2023)
+
+LANGUAGES_SPOKEN:
+
+Tamil
+
+English
+
+Hindi

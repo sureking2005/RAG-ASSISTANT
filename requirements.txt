@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-classic
+langchain-text-splitters
+langchain-google-genai
+chromadb
+ollama
+sentence-transformers
+python-dotenv
+fastapi
+uvicorn
